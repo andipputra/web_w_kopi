@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:web_w_kopi/views/utils/color_resource.dart';
+import 'package:web_w_kopi/config/style/color_resource.dart';
 
 class Navbar {
   static isMobile() {}
